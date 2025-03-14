@@ -1,0 +1,19 @@
+{
+    "name": "Hide Roblox Event Banner",
+    "description": "Hides the annoying banner for roblox's The Hunt: Mega Edition",
+    "version": "1.0",
+    "manifest_version": 3,
+    "action": {
+        "default_popup": "hello.html"
+    },
+    "content_scripts": [
+        {
+            "js": ["scripts/main.js"],
+            "matches": [
+                "https://web.roblox.com/*",
+                "https://www.roblox.com/*",
+                "https://roblox.com/*"
+            ]
+        }
+    ]
+}
