@@ -1,5 +1,7 @@
 # Remove The Hunt: Mega Edition Banner
 
+![Unbenannt](https://github.com/user-attachments/assets/fb3a32a3-50f0-4c71-b049-f1546bad3195)
+
 Removes the annoying The Hunt banner in your roblox homepage.
 
 This was written for chromium-based browsers, whether this works on browsers that differ has not been tested.
